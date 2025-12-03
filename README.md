@@ -50,9 +50,6 @@ Data sourced from [Inside Airbnb](https://insideairbnb.com/get-the-data/)
 ## How to Run the Code
 
 ### Prerequisites
-```bash
-pip install requirements.txt
-```
 
 ### Step 1: Download Data
 1. Visit [Inside Airbnb](https://insideairbnb.com/get-the-data/)
@@ -178,7 +175,6 @@ pip install requirements.txt
 ```
 airbnb-price-prediction/
 ├── README.md                          # This file
-├── requirements.txt
 ├── Airbnb_Price_Prediction.ipynb      # Main Jupyter notebook
 ├── data/                              # Data files (not included)
 │   ├── NYC.csv
