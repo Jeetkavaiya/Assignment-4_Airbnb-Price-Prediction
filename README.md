@@ -49,8 +49,6 @@ Data sourced from [Inside Airbnb](https://insideairbnb.com/get-the-data/)
 
 ## How to Run the Code
 
-### Prerequisites
-
 ### Step 1: Download Data
 1. Visit [Inside Airbnb](https://insideairbnb.com/get-the-data/)
 2. Download `listings.csv` for each of the 12 cities listed above
