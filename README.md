@@ -174,7 +174,7 @@ Data sourced from [Inside Airbnb](https://insideairbnb.com/get-the-data/)
 airbnb-price-prediction/
 ├── README.md                          # This file
 ├── Airbnb_Price_Prediction.ipynb      # Main Jupyter notebook
-├── data/                              # Data files (not included)
+├── data/                              # Data files
 │   ├── NYC.csv
 │   ├── LA.csv
 │   ├── SF.csv
@@ -253,6 +253,6 @@ Dense(1) - Output
 
 ---
 
-## 📝 License
+## License
 
 This project is for educational purposes as part of EAS 510 coursework.
