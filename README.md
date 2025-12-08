@@ -41,7 +41,7 @@ Data sourced from [Inside Airbnb](https://insideairbnb.com/get-the-data/)
 | Asheville | Small | June 2025 | 2,530 |
 | Santa Cruz | Small | June 2025 | 1,545 |
 | Salem | Small | Sept 2025 | 279 |
-| Columbus | Small | Sept 20245| 2,683 |
+| Columbus | Small | Sept 2025| 2,683 |
 
 **Total Listings Analyzed: 102,816**
 
